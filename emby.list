@@ -1,3 +1,4 @@
-DOMAIN,pub1.emby.wtf
-DOMAIN,sg.odysseyplus.site
-DOMAIN,sg1.jmsooo.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,odysseyplus.site
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,mseio.com
